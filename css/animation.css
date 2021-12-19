@@ -22,10 +22,10 @@
 
 @keyframes machine {
     0%{
-        background-image: url('./images/machine_learning.jpeg') ;
+        background-image: url('./../images/Machine_learning.jpeg') ;
     }
     100%{
-        background-image: url('./images/machine2.png');
+        background-image: url('./../images/machine2.png');
         height: 30vh;
         width: 22vw;
     }
